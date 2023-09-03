@@ -1,1 +1,1 @@
-# Decimal_To_binary_Converter_Using_CPP_QT
+# This program convert the decimal number in to binary.
